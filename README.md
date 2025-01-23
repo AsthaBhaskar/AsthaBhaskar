@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-😊Hi, I’m Astha, a final-year B.Tech student specializing in CSAI<br>💻Passionate about AI/ML research, I love working on innovative projects that <br>     combine cutting-edge technologies to solve real-world challenges. <br>🧮My expertise spans machine learning, deep learning, and artificial intelligence.<br>📈I have a knack for turning ideas into scalable solutions. <br>📜Authored IEEE publication and more research.<br>🍀Always trying to explore and update myself with emerging technologies to <br>     stay ahead in the rapidly evolving tech landscape.<br><br>Happy to collaborate!!✨👩🏻‍💻<br>
+😊Hi, I’m Astha, a final-year B.Tech student specializing in CSAI<br>💻Passionate about AI/ML research, I love working on innovative projects that combine cutting-edge technologies to solve real-world challenges. <br>🧮My expertise spans machine learning, deep learning, and artificial intelligence.<br>📈I have a knack for turning ideas into scalable solutions. <br>📜Authored IEEE publication and more research.<br>🍀Always trying to explore and update myself with emerging technologies to stay ahead in the rapidly evolving tech landscape.<br><br>Happy to collaborate!!✨👩🏻‍💻<br>
 
 
 ## 🌐 Socials:
